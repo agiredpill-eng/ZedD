@@ -1,10 +1,9 @@
 import Navigation from './components/Navigation';
 import Hero from './sections/Hero';
-import About from './sections/About';
+import YouWereMade from './sections/YouWereMade';
 import TheSigns from './sections/TheSigns';
 import TheMessage from './sections/TheMessage';
 import TheMessengers from './sections/TheMessengers';
-import YouWereMade from './sections/YouWereMade';
 import FlawlessDesign from './sections/FlawlessDesign';
 import TheInvitation from './sections/TheInvitation';
 import Connect from './sections/Connect';
@@ -19,11 +18,10 @@ function App() {
       <Navigation />
       <main>
         <Hero />
-        <About />
+        <YouWereMade />
         <TheSigns />
         <TheMessage />
         <TheMessengers />
-        <YouWereMade />
         <FlawlessDesign />
         <TheInvitation />
         <Connect />
