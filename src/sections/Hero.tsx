@@ -75,12 +75,23 @@ export default function Hero() {
           <h1 className="font-playfair text-5xl md:text-7xl font-bold text-gray-900 mb-6 leading-tight">
             Were You Created By Nothing?
           </h1>
+          <p className="font-inter text-xl md:text-2xl text-gray-600 leading-relaxed mb-4">
+            You didn't choose to be here.
+          </p>
+          <p className="font-inter text-xl md:text-2xl text-gray-600 leading-relaxed mb-4">
+            You didn't write the rules you live by.
+          </p>
           <p className="font-inter text-xl md:text-2xl text-gray-600 leading-relaxed mb-8">
-            You did not choose to exist. You did not design the system you live inside.
-            Something — or Someone — put you here.
+            You didn't design the conscience that won't let certain things go.
+          </p>
+          <p className="font-inter text-xl md:text-2xl text-gray-600 leading-relaxed mb-8">
+            Something put all of that in place before you arrived.
+          </p>
+          <p className="font-inter text-lg text-gray-500 leading-relaxed mb-4">
+            Most people spend their entire lives looking away from that fact.
           </p>
           <p className="font-inter text-lg text-gray-500 leading-relaxed">
-            This is what happens when you stop avoiding that question.
+            This is for the ones who can't.
           </p>
         </div>
 
@@ -117,12 +128,18 @@ export default function Hero() {
           ))}
         </div>
 
-        <div className="text-center mt-20">
+        <div className="text-center mt-20 flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a
             href="#about"
             className="inline-flex items-center gap-2 bg-gold text-white font-inter font-semibold px-8 py-4 rounded-lg hover:bg-gold/90 transition-all shadow-lg hover:shadow-xl"
           >
-            Learn More About This Work
+            Start Here
+          </a>
+          <a
+            href="#podcast"
+            className="inline-flex items-center gap-2 bg-gray-900 text-white font-inter font-semibold px-8 py-4 rounded-lg hover:bg-gray-800 transition-all shadow-lg hover:shadow-xl"
+          >
+            Listen to the Podcast
           </a>
         </div>
       </div>
