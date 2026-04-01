@@ -43,13 +43,13 @@ export default function Connect() {
             <ScrollAnimation delay={200}>
               <div className="font-inter text-primary-text text-base md:text-lg leading-relaxed space-y-4">
                 <p>
-                  Writer. Researcher. Theological thinker. Not a scholar, but a thinker who follows the evidence and refuses to let either the believer or the sceptic off the hook.
+                  Writer. Researcher. Theological thinker. Not a scholar (a thinker who follows the evidence and refuses to let either the believer or the sceptic off the hook).
                 </p>
                 <p>
-                  The Insight Chronicles is a series that reframes the stories of the Prophets as operational mission briefings for veterans, leaders, and anyone who has ever carried weight that most people cannot understand.
+                  The Insight Chronicles is a series that reframes the stories of the Prophets as operational mission briefings (for veterans, leaders, and anyone who has ever carried weight that most people cannot understand).
                 </p>
                 <p>
-                  This is not religion as you have been sold it. This is the original operating system before it was diluted, politicised, or reduced to cultural ritual.
+                  This is not religion as you have been sold it. This is the original operating system (before it was diluted, politicised, or reduced to cultural ritual).
                 </p>
               </div>
             </ScrollAnimation>

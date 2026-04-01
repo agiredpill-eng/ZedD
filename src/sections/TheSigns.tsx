@@ -5,7 +5,7 @@ const signs = [
   {
     icon: Atom,
     title: 'The Constants',
-    body: 'The gravitational constant, the strong nuclear force, the cosmological constant: calibrated to a precision of 1 in 10^60. Alter any by a fraction and no stars form, no chemistry exists, no life is possible. Fortune or architecture?',
+    body: 'The gravitational constant, the strong nuclear force, the cosmological constant (calibrated to a precision of 1 in 10^60). Alter any by a fraction and no stars form, no chemistry exists, no life is possible. Fortune or architecture?',
   },
   {
     icon: Dna,
@@ -20,12 +20,12 @@ const signs = [
   {
     icon: Droplet,
     title: 'The Exception',
-    body: 'Water is the only substance that expands when it freezes, which is why ice floats and life beneath it survives winter. An anomaly in physics that happens to be the condition for all biology.',
+    body: 'Water is the only substance that expands when it freezes (which is why ice floats and life beneath it survives winter). An anomaly in physics that happens to be the condition for all biology.',
   },
   {
     icon: Scale,
     title: 'The Law Within',
-    body: 'You believe some things are genuinely wrong, not just unpopular. That belief has no grounding in a universe of purposeless matter. Where does "genuinely wrong" come from if there is no Lawgiver?',
+    body: 'You believe some things are genuinely wrong (not just unpopular). That belief has no grounding in a universe of purposeless matter. Where does "genuinely wrong" come from if there is no Lawgiver?',
   },
   {
     icon: Activity,

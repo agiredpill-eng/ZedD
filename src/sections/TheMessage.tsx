@@ -40,7 +40,7 @@ export default function TheMessage() {
                 This challenge was issued 1,400 years ago. It has never been met.
               </p>
               <p>
-                Not by the poets of pre-Islamic Arabia, the most linguistically sophisticated civilisation of their age. Not by the empires that opposed Islam militarily. Not by the Orientalist scholars who studied it for centuries.
+                Not by the poets of pre-Islamic Arabia (the most linguistically sophisticated civilisation of their age). Not by the empires that opposed Islam militarily. Not by the Orientalist scholars who studied it for centuries.
               </p>
               <p>
                 The Quran does not ask for blind faith. It asks you to test it. Bring your best minds, your best arguments, your best alternatives and produce something comparable. The challenge stands open. It always has.
@@ -76,7 +76,7 @@ export default function TheMessage() {
 
           <ScrollAnimation delay={1100}>
             <p className="font-playfair italic text-primary-text/80 text-lg md:text-xl max-w-3xl mx-auto mt-10">
-              It is a direct communication from the Creator of the universe to the species He created, delivered through a man who could not read or write, in a language whose structure has never been replicated.
+              It is a direct communication from the Creator of the universe to the species He created (delivered through a man who could not read or write) in a language whose structure has never been replicated.
             </p>
           </ScrollAnimation>
         </div>
