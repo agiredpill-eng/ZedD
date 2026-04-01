@@ -70,17 +70,10 @@ export default function FlawlessDesign() {
         <ScrollAnimation delay={600}>
           <div className="space-y-4 font-inter text-primary-text text-base md:text-lg max-w-2xl mx-auto leading-relaxed">
             <p>
-              This is not a statement of faith. It is an open challenge. Look
-              at the night sky. Examine the structure of a leaf. Study the
-              mathematics of orbital mechanics. The Quran does not ask you to
-              stop looking. It asks you to look harder — and report what you
-              find.
+              This is not a statement of faith. It is an open challenge. Look at the night sky. Examine the structure of a leaf. Study the mathematics of orbital mechanics. The Quran does not ask you to stop looking. It asks you to look harder and report what you find.
             </p>
             <p>
-              Every scientific discipline that has ever existed has been an
-              exercise in discovering order where chaos was expected. Physics
-              finds laws. Biology finds systems. Chemistry finds precision. The
-              universe is not random. It is authored.
+              Every scientific discipline that has ever existed has been an exercise in discovering order where chaos was expected. Physics finds laws. Biology finds systems. Chemistry finds precision. The universe is not random. It is authored.
             </p>
           </div>
         </ScrollAnimation>

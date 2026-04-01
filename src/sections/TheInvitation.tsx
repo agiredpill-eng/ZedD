@@ -84,21 +84,13 @@ export default function TheInvitation() {
           <ScrollAnimation delay={600}>
             <div className="space-y-6 font-inter text-primary-text text-base md:text-lg leading-relaxed max-w-3xl mx-auto">
               <p>
-                This verse is repeated 31 times in Surah Ar-Rahman — the
-                chapter named after the Most Compassionate. Thirty-one times.
-                Not because Allah forgot He said it. Because you keep forgetting
-                what it means.
+                This verse is repeated 31 times in Surah Ar-Rahman, the chapter named after the Most Compassionate. Thirty-one times. Not because Allah forgot He said it. Because you keep forgetting what it means.
               </p>
               <p>
-                Every breath you take is a favour. Every heartbeat. Every
-                sunrise. Every person who ever loved you. Every moment of
-                beauty that stopped you in your tracks. Every time you felt —
-                even for a second — that there must be more to this than atoms
-                and accidents.
+                Every breath you take is a favour. Every heartbeat. Every sunrise. Every person who ever loved you. Every moment of beauty that stopped you in your tracks. Every time you felt, even for a second, that there must be more to this than atoms and accidents.
               </p>
               <p>
-                That feeling is not a malfunction. It is a signal. And the One
-                sending it has been patient with you longer than you know.
+                That feeling is not a malfunction. It is a signal. And the One sending it has been patient with you longer than you know.
               </p>
             </div>
           </ScrollAnimation>

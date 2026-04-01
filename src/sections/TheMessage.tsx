@@ -37,20 +37,13 @@ export default function TheMessage() {
           <ScrollAnimation delay={600}>
             <div className="space-y-6 font-inter text-primary-text text-base md:text-lg leading-relaxed max-w-3xl mx-auto">
               <p>
-                This challenge was issued 1,400 years ago. It has never been
-                met.
+                This challenge was issued 1,400 years ago. It has never been met.
               </p>
               <p>
-                Not by the poets of pre-Islamic Arabia — the most
-                linguistically sophisticated civilisation of their age. Not by
-                the empires that opposed Islam militarily. Not by the
-                Orientalist scholars who studied it for centuries.
+                Not by the poets of pre-Islamic Arabia, the most linguistically sophisticated civilisation of their age. Not by the empires that opposed Islam militarily. Not by the Orientalist scholars who studied it for centuries.
               </p>
               <p>
-                The Quran does not ask for blind faith. It asks you to test it.
-                Bring your best minds, your best arguments, your best
-                alternatives — and produce something comparable. The challenge
-                stands open. It always has.
+                The Quran does not ask for blind faith. It asks you to test it. Bring your best minds, your best arguments, your best alternatives and produce something comparable. The challenge stands open. It always has.
               </p>
             </div>
           </ScrollAnimation>
@@ -59,8 +52,7 @@ export default function TheMessage() {
             <ScrollAnimation delay={800}>
               <div className="border-t-2 border-gold pt-6">
                 <p className="font-inter text-primary-text text-base md:text-lg leading-relaxed">
-                  Not a history book — though its historical claims have never
-                  been disproven.
+                  Not a history book, though its historical claims have never been disproven.
                 </p>
               </div>
             </ScrollAnimation>
@@ -68,8 +60,7 @@ export default function TheMessage() {
             <ScrollAnimation delay={900}>
               <div className="border-t-2 border-gold pt-6">
                 <p className="font-inter text-primary-text text-base md:text-lg leading-relaxed">
-                  Not a science textbook — though it contains no contradiction
-                  with established science.
+                  Not a science textbook, though it contains no contradiction with established science.
                 </p>
               </div>
             </ScrollAnimation>
@@ -77,8 +68,7 @@ export default function TheMessage() {
             <ScrollAnimation delay={1000}>
               <div className="border-t-2 border-gold pt-6">
                 <p className="font-inter text-primary-text text-base md:text-lg leading-relaxed">
-                  Not a philosophy treatise — though it answers questions
-                  philosophy cannot.
+                  Not a philosophy treatise, though it answers questions philosophy cannot.
                 </p>
               </div>
             </ScrollAnimation>
@@ -86,10 +76,7 @@ export default function TheMessage() {
 
           <ScrollAnimation delay={1100}>
             <p className="font-playfair italic text-primary-text/80 text-lg md:text-xl max-w-3xl mx-auto mt-10">
-              It is a direct communication from the Creator of the universe to
-              the species He created — delivered through a man who could not
-              read or write, in a language whose structure has never been
-              replicated.
+              It is a direct communication from the Creator of the universe to the species He created, delivered through a man who could not read or write, in a language whose structure has never been replicated.
             </p>
           </ScrollAnimation>
         </div>

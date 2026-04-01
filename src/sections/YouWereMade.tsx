@@ -33,16 +33,10 @@ export default function YouWereMade() {
             <ScrollAnimation delay={600}>
               <div className="space-y-4 font-inter text-primary-text text-base md:text-lg leading-relaxed">
                 <p>
-                  Every human being who has ever lived began as something they
-                  had no control over. You did not choose your DNA. You did not
-                  design your nervous system. You did not engineer the 37
-                  trillion cells that coordinate — right now — to keep you
-                  reading this sentence.
+                  Every human being who has ever lived began as something they had no control over. You did not choose your DNA. You did not design your nervous system. You did not engineer the 37 trillion cells that coordinate right now to keep you reading this sentence.
                 </p>
                 <p>
-                  The question is not whether design exists. You are looking at
-                  it every time you look in the mirror. The question is whether
-                  you are honest enough to ask who the Designer is.
+                  The question is not whether design exists. You are looking at it every time you look in the mirror. The question is whether you are honest enough to ask who the Designer is.
                 </p>
               </div>
             </ScrollAnimation>
@@ -50,10 +44,7 @@ export default function YouWereMade() {
             <ScrollAnimation delay={800}>
               <div className="border-l-[3px] border-gold bg-crimson/10 pl-6 py-4 italic">
                 <p className="font-playfair text-primary-text text-lg md:text-xl leading-relaxed">
-                  "You trust your eyes to see, your lungs to breathe, your
-                  heart to beat — all systems you did not build and cannot
-                  fully explain. On what basis do you then distrust the One who
-                  built them?"
+                  "You trust your eyes to see, your lungs to breathe, your heart to beat: all systems you did not build and cannot fully explain. On what basis do you then distrust the One who built them?"
                 </p>
               </div>
             </ScrollAnimation>

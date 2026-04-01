@@ -54,15 +54,13 @@ export default function TheMessengers() {
         <div className="text-center mb-12">
           <ScrollAnimation delay={0}>
             <h2 className="font-playfair text-gold text-3xl md:text-4xl lg:text-5xl mb-4">
-              THE MESSENGERS — Deployed With Purpose
+              THE MESSENGERS: Deployed With Purpose
             </h2>
           </ScrollAnimation>
 
           <ScrollAnimation delay={200}>
             <p className="font-inter text-secondary-text text-base md:text-lg max-w-3xl mx-auto leading-relaxed">
-              Every Prophet was sent to a people in crisis — moral, political,
-              civilisational. Their message was never just theological. It was a
-              complete framework for how to live, govern, and answer to God.
+              Every Prophet was sent to a people in crisis: moral, political, civilisational. Their message was never just theological. It was a complete framework for how to live, govern, and answer to God.
             </p>
           </ScrollAnimation>
         </div>
